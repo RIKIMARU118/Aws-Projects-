@@ -1,2 +1,2 @@
-# Sid's Projects-
+# Sid's Projects
 A Repository of my Projects
